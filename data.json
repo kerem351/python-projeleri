@@ -1,0 +1,11 @@
+[
+    {
+        "kitap_adi": "kerem",
+        "yazar": "kerem",
+        "fiyat": 15,
+        "yayın_tarihi": "2026",
+        "yayıncı": "kerem",
+        "kategori": "kerem",
+        "müsaitlik": true
+    }
+]
